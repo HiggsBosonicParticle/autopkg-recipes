@@ -19,7 +19,7 @@
 		<key>POLICY_CATEGORY</key>
 		<string>Updates</string>
 		<key>POLICY_TEMPLATE</key>
-		<string>PolicyTemplate-testing.xml</string>
+		<string>PolicyTemplate.xml</string>
 		<key>RELEASE</key>
 		<string>latest</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
