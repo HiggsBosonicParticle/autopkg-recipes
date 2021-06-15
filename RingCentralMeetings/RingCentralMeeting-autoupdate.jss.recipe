@@ -16,6 +16,6 @@
 		<string>PolicyTemplate-autoupdate.xml</string>
 	</dict>
 	<key>ParentRecipe</key>
-	<string>local.jss.RingCentralMeetings</string>
+	<string>com.github.higgsbosonicparticle.jss.RingCentralMeetings</string>
 </dict>
 </plist>
