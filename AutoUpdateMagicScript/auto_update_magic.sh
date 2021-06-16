@@ -51,6 +51,10 @@ TRIGGERS=(
 
      "Dropbox"
 
+     "Evernote"
+
+     "Figma"
+
 
 )
 
@@ -91,6 +95,10 @@ BLOCKING_APPS=(
      #"CloudApp"
 
      #"Dropbox"
+
+     #"Evernote"
+
+     #"Figma"
 
 
 
