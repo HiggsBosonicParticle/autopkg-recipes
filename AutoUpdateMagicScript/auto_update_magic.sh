@@ -105,10 +105,10 @@ DEBUG_MODE=false
 APPNAME=$(basename "$0" | sed "s/\.sh$//")
 
 # Let's make sure we have the right numbers of settings above.
-if [[ ${#TRIGGERS[@]} != ${#BLOCKING_APPS[@]} ]]; then
-    echo "[ERROR] Please carefully check the settings in the $APPNAME script. The number of parameters don't match." >&2
-    exit 1001
-fi
+#if [[ ${#TRIGGERS[@]} != ${#BLOCKING_APPS[@]} ]]; then
+ #   echo "[ERROR] Please carefully check the settings in the $APPNAME script. The number of parameters don't match." >&2
+  #  exit 1001
+#fi
 
 # Let's verify that DEBUG_MODE is set to true or false.
 if [[ $DEBUG_MODE != true && $DEBUG_MODE != false ]]; then
