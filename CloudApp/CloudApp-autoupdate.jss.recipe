@@ -18,6 +18,6 @@
     	<string>False</string>
 	</dict>
 	<key>ParentRecipe</key>
-	<string>om.github.dataJAR-recipes.jss.CloudApp</string>
+	<string>com.github.dataJAR-recipes.jss.CloudApp</string>
 </dict>
 </plist>
