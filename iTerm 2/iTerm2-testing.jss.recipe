@@ -23,9 +23,11 @@
 		<key>RELEASE</key>
 		<string>latest</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
-		<string>iTerm2 is a replacement for Terminal.</string>
+		<string>Terminal replacement</string>
 		<key>SELF_SERVICE_ICON</key>
-		<string>iTerm.png</string>
+		<string>iTerm2.png</string>
+		<key>STOP_IF_NO_JSS_UPLOAD</key>
+    	<string>False</string>
 	</dict>
 	<key>ParentRecipe</key>
 	<string>com.github.jss-recipes.jss.iTerm2</string>
