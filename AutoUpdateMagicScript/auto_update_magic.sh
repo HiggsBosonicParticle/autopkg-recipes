@@ -49,6 +49,8 @@ TRIGGERS=(
 
      "CloudApp"
 
+     "Dropbox"
+
 
 )
 
@@ -85,6 +87,10 @@ BLOCKING_APPS=(
      #"TablePlus"
 
      #"Notion"
+
+     #"CloudApp"
+
+     #"Dropbox"
 
 
 
