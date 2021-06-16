@@ -29,7 +29,7 @@ TRIGGERS=(
 
      "zoom.us"
 
-     #"Visual Studio Code"
+     "Visual Studio Code"
 
      "GoToMeeting"
 
@@ -44,6 +44,8 @@ TRIGGERS=(
      "Sketch"
 
      "TablePlus"
+
+     "Notion"
 
 
 )
@@ -79,6 +81,8 @@ BLOCKING_APPS=(
      #"Sketch"
 
      #"TablePlus"
+
+     #"Notion"
 
 
 
