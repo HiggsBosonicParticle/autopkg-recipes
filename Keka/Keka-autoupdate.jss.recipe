@@ -14,6 +14,8 @@
 		<string>Auto Update</string>
 		<key>POLICY_TEMPLATE</key>
 		<string>PolicyTemplate-autoupdate.xml</string>
+		<key>STOP_IF_NO_JSS_UPLOAD</key>
+    	<string>False</string>
 	</dict>
 	<key>ParentRecipe</key>
 	<string>com.github.smithjw.jss.Keka</string>
