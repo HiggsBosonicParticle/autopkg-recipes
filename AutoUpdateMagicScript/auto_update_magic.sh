@@ -47,6 +47,8 @@ TRIGGERS=(
 
      "Notion"
 
+     "CloudApp"
+
 
 )
 
