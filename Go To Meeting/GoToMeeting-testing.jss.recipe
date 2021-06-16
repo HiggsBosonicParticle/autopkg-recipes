@@ -26,6 +26,8 @@
 		<string>GoToMeeting is a web-hosted service created and marketed by the Online Services division of Citrix Systems. It is an online meeting, desktop sharing, and video conferencing software that enables the user to meet with other computer users, customers, clients or colleagues via the Internet in real time.</string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>GoToMeeting.png</string>
+		<key>STOP_IF_NO_JSS_UPLOAD</key>
+    	<string>False</string>
 	</dict>
 	<key>ParentRecipe</key>
 	<string>com.github.jss-recipes.jss.GoToMeeting</string>
