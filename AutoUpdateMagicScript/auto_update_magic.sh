@@ -56,29 +56,29 @@ BLOCKING_APPS=(
 
     # "no_blocking_apps" # blocking apps for Flash
 
-     "Firefox" # blocking apps for Firefox
+     #"Firefox" # blocking apps for Firefox
 
-     "Google Chrome" # blocking apps for Chrome
+     #"Google Chrome" # blocking apps for Chrome
 
-     "iTerm2" # blocking apps for iTerm2
+     #"iTerm2" # blocking apps for iTerm2
 
-     "zoom.us" # blocking apps for Zoom
+     #"zoom.us" # blocking apps for Zoom
 
      #"Visual Studio Code" #
 
-     "GoToMeeting" #
+     #"GoToMeeting" #
 
-     "WorkSpaces"
+     #"WorkSpaces"
 
-     "Keka"
+     #"Keka"
 
-     "Microsoft Edge"
+     #"Microsoft Edge"
 
-     "Postman"
+     #"Postman"
 
-     "Sketch"
+     #"Sketch"
 
-     "TablePlus"
+     #"TablePlus"
 
 
 
