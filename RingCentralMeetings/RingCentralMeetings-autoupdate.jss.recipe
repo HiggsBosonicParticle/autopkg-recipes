@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Identifier</key>
-	<string>local.jss.RingCentralMeeting-autoupdate</string>
+	<string>local.jss.RingCentralMeetings-autoupdate</string>
 	<key>Input</key>
 	<dict>
 		<key>GROUP_NAME</key>
