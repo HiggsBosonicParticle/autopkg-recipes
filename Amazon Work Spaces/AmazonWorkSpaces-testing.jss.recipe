@@ -26,6 +26,8 @@
 		<string>Amazon WorkSpaces is a managed, secure cloud desktop service. Virtual desktops have never been easier... or faster.</string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>AmazonWorkSpaces.png</string>
+		<key>STOP_IF_NO_JSS_UPLOAD</key>
+    	<string>False</string>
 	</dict>
 	<key>ParentRecipe</key>
 	<string>com.github.crystalllized.jss.AmazonWorkspaces</string>
