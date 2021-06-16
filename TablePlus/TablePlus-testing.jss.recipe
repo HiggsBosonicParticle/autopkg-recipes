@@ -26,6 +26,8 @@
 		<string>odern, native, and friendly GUI tool for relational databases. Supports MySQL, PostgreSQL, SQLite and more.</string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>TablePlus.png</string>
+		<key>STOP_IF_NO_JSS_UPLOAD</key>
+    	<string>False</string>
 	</dict>
 	<key>ParentRecipe</key>
 	<string>com.github.jss-recipes.jss.TablePlus</string>
