@@ -9,7 +9,7 @@
 		<key>GROUP_NAME</key>
 		<string>%NAME%-autoupdate</string>
 		<key>GROUP_TEMPLATE</key>
-		<string>SmartGroupTemplate-autoupdate.xml</string>
+		<string>SmartGroupTemplate-autoupdate-edge.xml</string>
 		<key>POLICY_CATEGORY</key>
 		<string>Auto Update</string>
 		<key>POLICY_TEMPLATE</key>
