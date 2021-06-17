@@ -11,11 +11,11 @@
 		<key>GROUP_NAME</key>
 		<string>%NAME%-update-smart</string>
 		<key>GROUP_TEMPLATE</key>
-		<string>SmartGroupTemplate.xml</string>
+		<string>SmartGroupTemplate-zoom.xml</string>
 		<key>LOCALE</key>
 		<string>en_US</string>
 		<key>NAME</key>
-		<string>Zoom</string>
+		<string>zoom.us</string>
 		<key>POLICY_CATEGORY</key>
 		<string>Updates</string>
 		<key>POLICY_TEMPLATE</key>
