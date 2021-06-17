@@ -68,41 +68,41 @@ BLOCKING_APPS=(
 
     # "no_blocking_apps" # blocking apps for Flash
 
-     "Firefox" # blocking apps for Firefox
+     #"Firefox" # blocking apps for Firefox
 
-     "Google Chrome" # blocking apps for Chrome
+     #"Google Chrome" # blocking apps for Chrome
 
-     "iTerm2" # blocking apps for iTerm2
+     #"iTerm2" # blocking apps for iTerm2
 
-     "zoom.us" # blocking apps for Zoom
+     #"zoom.us" # blocking apps for Zoom
 
      #"Visual Studio Code" #Letting the engineers update this manual as to not break extensions, same with docker do not add to auto update list
 
-     "GoToMeeting" #
+     #"GoToMeeting" #
 
-     "WorkSpaces"
+     #"WorkSpaces"
 
-     "Keka"
+     #"Keka"
 
      #"Microsoft Edge" # Disabling because it is not used, and is having issues. Version syntax does not match jamf to recipe
 
-     "Postman"
+     #"Postman"
 
-     "Sketch"
+     #"Sketch"
 
-     "TablePlus"
+     #"TablePlus"
 
-     "Notion"
+     #"Notion"
 
-     "CloudApp"
+     #"CloudApp"
 
-     "Dropbox"
+     #"Dropbox"
 
-     "Evernote"
+     #"Evernote"
 
-     "Figma"
+     #"Figma"
 
-     "RingCentral"
+     #"RingCentral"
 
 
 
