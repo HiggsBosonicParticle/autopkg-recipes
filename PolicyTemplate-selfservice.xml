@@ -8,9 +8,7 @@
         </category>
         <trigger_other>selfservice-%PROD_NAME%</trigger_other>
     </general>
-    <scope>
-        <all_computers>true</all_computers>
-    </scope>
+        <!--Package added by JSSImporter-->
     <package_configuration>
         <!--Package added by JSSImporter-->
     </package_configuration>
