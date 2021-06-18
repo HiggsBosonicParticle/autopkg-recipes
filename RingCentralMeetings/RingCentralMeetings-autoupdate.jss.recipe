@@ -18,6 +18,6 @@
     	<string>False</string>
 	</dict>
 	<key>ParentRecipe</key>
-	<string>com.github.higgsbosonicparticle.jss.RingCentralMeetings</string>
+	<string>local.jss.RingCentralMeetings</string>
 </dict>
 </plist>
